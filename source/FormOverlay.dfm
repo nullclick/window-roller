@@ -13,4 +13,5 @@ object FormOverlay: TFormOverlay
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  OnCreate = FormCreate
 end
