@@ -58,3 +58,6 @@ __history/
 
 # Sublime Text User Workspace
 *.sublime-workspace
+
+# Stackdump and Crash Debugging Files
+*.stackdump
