@@ -84,7 +84,7 @@
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
         <DCCReference Include="source\FormConfig.pas">
-            <Form>FormMain</Form>
+            <Form>ConfigForm</Form>
         </DCCReference>
         <DCCReference Include="source\FormOverlay.pas">
             <Form>Form2</Form>

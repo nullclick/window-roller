@@ -17,7 +17,7 @@ interface
 
   type
 
-    TForm1 = class(TForm)
+    TFormConfig = class(TForm)
       private
         { Private declarations }
       public
@@ -26,12 +26,11 @@ interface
 
 
   var
-    Form1: TForm1;
+    ConfigForm: TFormConfig;
 
 
 implementation
 
 {$R *.dfm}
-
 
 end.

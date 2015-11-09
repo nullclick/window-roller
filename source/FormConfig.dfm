@@ -1,7 +1,7 @@
-object Form1: TForm1
+object ConfigForm: TFormConfig
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'Privacy Overlay Configuration'
   ClientHeight = 411
   ClientWidth = 852
   Color = clBtnFace
