@@ -83,11 +83,10 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="source\Unit1.pas">
-            <Form>Form1</Form>
-            <FormType>dfm</FormType>
+        <DCCReference Include="source\FormConfig.pas">
+            <Form>FormMain</Form>
         </DCCReference>
-        <DCCReference Include="source\CigarForm.pas">
+        <DCCReference Include="source\FormOverlay.pas">
             <Form>Form2</Form>
             <FormType>dfm</FormType>
         </DCCReference>
